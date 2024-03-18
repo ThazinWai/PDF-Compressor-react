@@ -1,0 +1,82 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #EFF6FF;
+    ;
+    color: black;
+  }
+  
+  .left-align-header-title {
+    text-align: left;
+    margin-left: 8.5%; 
+    font-family: 'Arial';
+    font-weight: 700;
+    font-size: 35px;
+  }
+
+
+  .left-align {
+    text-align: left;
+    margin-left: 8.5%; 
+  }
+  
+  .right-align {
+    text-align: right;
+    margin-right: 8.5%; 
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+
+
+  .left-align{
+    text-align: left;
+    margin-left: 8.5%; 
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 16px;
+  }
+  
+
+  .desktop-version,
+  .contact {
+    margin-right: 10px;
+  }
+  
+  .dark-mode-icon {
+    cursor: pointer;
+    color: black; 
+    padding-right: 16px;
+  }
+  
+  .all-pdf-tools-btn {
+    background-color: #4A94EE;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .content-container {
+    background-color: #327FDE; 
+    height: 50px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+  }
+
+  .tick {
+    display: inline-block; 
+    width: 20px; 
+    height: 20px; 
+    border-radius: 50%; 
+    background-color: white; 
+    text-align: center; 
+    color: #327FDE;
+  }
+  .feature-text {
+    color: white; 
+  }
